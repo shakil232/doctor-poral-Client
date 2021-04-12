@@ -1,0 +1,17 @@
+.card-container{
+   box-shadow: 5px 5px 5px  1px lightgray;
+    height: 210px;
+}
+
+.test-img img{
+    width: 50%;
+}
+.card-text h5{
+     font-size: 15px;
+     color: rgb(68, 214, 68);
+}
+.card-text p{
+     font-size: 10px;
+     color: royalblue;
+     font-weight: 500;
+}

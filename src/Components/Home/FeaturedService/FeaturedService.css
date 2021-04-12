@@ -1,0 +1,28 @@
+
+.featured-img{
+    /* width: 30%; */
+    height: 100px;
+}
+.featured-head{
+    color: #3A4256;
+    font-weight: 600;
+}
+.featured-text{
+    text-align: justify;
+}
+.featured-btn{
+    height: 45px;
+    width: 200px;
+    background: linear-gradient(to left, #18D3B1, #10CFE3);
+    color: #3A4256;
+    font-size: 13px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    transition: 1s;
+}
+.featured-btn:hover{
+    background: rebeccapurple;
+    color: white;
+}

@@ -1,0 +1,13 @@
+
+.service-img{
+    width: 20%;
+    height: 35%;
+}
+.service-name{
+    font-size: 15px;
+    font-weight: 00;
+    color: #3A4256;
+}
+.details-container:hover{
+    box-shadow: 5px 5px 10px lightgray;
+}

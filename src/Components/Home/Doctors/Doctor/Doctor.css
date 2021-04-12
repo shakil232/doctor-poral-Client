@@ -1,0 +1,23 @@
+
+.doctorCard-img{
+    width: 60%;
+    height: 35%;
+    margin-bottom: 5px;
+}
+.doctor-card p{
+    font-size: 15px;
+    font-weight: 600;
+    color: #3A4256;
+    margin-bottom: -4px;
+}
+.DoctorCard-number small{
+    font-size: 10px;
+    font-weight: 600;
+    color: dimgray;
+    
+}
+.doctor-icon{
+    color: rgb(40, 173, 40);
+    font-size: 12px;
+    font-weight: 700;
+}

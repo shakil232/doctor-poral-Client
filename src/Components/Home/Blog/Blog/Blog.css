@@ -1,0 +1,11 @@
+
+.blog-text p{
+    color: darkcyan;
+    font-size: 16px;
+    font-weight: 600;
+}
+.blog-text h3{
+    color:#3A4256 ;
+    font-size: 25px;
+    font-weight: 700;
+}

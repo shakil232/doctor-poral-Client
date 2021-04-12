@@ -1,0 +1,36 @@
+.blogCard-container{
+    box-shadow: 5px 5px 5px lightskyblue;
+    height: 210px;
+}
+.blogCard{
+    border-bottom: 1px solid lightgray;
+}
+.blogCard-img{
+    width: 17%;
+    height: 35%;
+    margin-bottom: 5px;
+}
+.blogCard-top p{
+    font-size: 13px;
+    font-weight: 600;
+    color: #3A4256;
+    margin-bottom: -3px;
+}
+.blogCard-top small{
+    font-size: 10px;
+    font-weight: 600;
+    color: dimgray;
+    
+}
+.blogCard-bottom h5{
+    font-size: 15px;
+    font-weight: 600;
+    color: darkgreen;
+    text-align: justify;
+    
+}
+.blogCard-bottom small{
+    font-size: 10px;
+    font-weight: 600;
+    color: dimgray;  
+}

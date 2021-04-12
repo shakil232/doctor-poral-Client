@@ -1,0 +1,12 @@
+.testimonial-bg{
+    width: 15%;
+}
+.testimonial-text h5{
+  color: rebeccapurple ;
+  font-size: 30px;
+  font-weight: 700;
+}
+.testimonial-text small{
+  color: orangered;
+  font-weight: 800;
+}
